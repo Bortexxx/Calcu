@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //Hola hice un cambio
     }
     @IBAction func Go(_ sender: Any) {
         let h = Double(alturaTxt.text!)
